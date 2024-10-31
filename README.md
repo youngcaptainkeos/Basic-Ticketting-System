@@ -193,7 +193,7 @@ when canceling a ticket, it renames and removes entries in the
 6. datetime and calendar 
 These modules handle date and time-related operations. They 
 enable the program to manage dates for booking tickets, 
-Page 18 of 60 
+
  
 ensuring that bookings can only be made for future dates and 
 providing a calendar view for date selection. 
